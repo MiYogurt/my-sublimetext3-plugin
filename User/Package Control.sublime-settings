@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"CSSLint",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"JSHint",
+		"JSLint",
+		"JSX",
+		"MagicPython",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - itg.flat"
+	]
+}

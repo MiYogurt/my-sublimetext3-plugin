@@ -1,0 +1,24 @@
+{
+	"9o.hist./Users/Yugo/GoPath":
+	[
+		"clear",
+		"cd src"
+	],
+	"9o.hist./Users/Yugo/GoPath/src":
+	[
+		"ls"
+	],
+	"9o.hist./Users/Yugo/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64":
+	[
+		"ls",
+		"go",
+		"clear",
+		"help",
+		"cd GOPATH",
+		"echo $GOPATH",
+		"cd /Users/Yugo/GoPath"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
+}

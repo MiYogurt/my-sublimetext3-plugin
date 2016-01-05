@@ -1,0 +1,7 @@
+{
+	  	 "installsuffix": "appengine",
+	     "env": {
+	       "GOPATH": "/Users/Yugo/GoPath",
+           "GOROOT": "/usr/local/go"
+	     }
+}

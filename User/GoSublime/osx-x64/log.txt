@@ -1,0 +1,4 @@
+
+** 2015-10-28 18:19:30.812459 **:
+GsDoc: Abort. Cannot start MarGo: Exception: Cannot find command `/Users/Yugo/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/bin/gosublime.margo_r14.12.06-1_go?.exe`
+--------------------------------

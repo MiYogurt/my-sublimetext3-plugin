@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>${1}</title>
+    <script src="http://cdn.bootcss.com/react/0.14.1/react.js"></script>
+    <script src="http://cdn.bootcss.com/react/0.14.1/react-dom.js"></script>
+    <script src="http://cdn.bootcss.com/babel-core/5.8.32/browser.min.js"></script>
+  </head>
+  <body>
+
+
+    <script type="text/babel">
+
+      ${2}
+
+    </script>
+  </body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>!react</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>
